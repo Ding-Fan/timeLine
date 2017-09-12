@@ -1,0 +1,14 @@
+body {
+    background-color: #000000;
+    font-family: 'Libre Barcode 39 Text', cursive;
+    /*   font-family: 'Share Tech Mono', monospace; */
+}
+
+#main {
+    font-size: 70px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
